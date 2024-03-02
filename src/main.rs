@@ -10,8 +10,6 @@ mod cons;
 mod binary_tree_immutable;
 mod binary_tree_mutable;
 mod mutation;
-mod lisp;
-// mod lisp_current; // Last working on this
 mod ackermann;
 mod ex1_11;
 mod exponential;
@@ -27,7 +25,6 @@ mod huffman;
 mod complex;
 mod complex_trait;
 mod complex_messaging;
-mod digital_circuit;
 
 use picture_language::picture;
 
